@@ -29,3 +29,10 @@ Retomada: docs/RETOMAR.md. Prioridade dos mandatos encerrados preservada. 2022 p
 ## Atualização — PDF de 2006 recebido
 
 O usuário forneceu documentos/plano2006-lula.pdf. Importado com 30 páginas, capa e créditos conferidos. SHA-256: 1f839142988074554b0330e14e30f26d503dbcfe30f27b4c06d5b7746bd97137. Seis PDFs e 258 páginas no acervo local. A pendência de obtenção do PDF está resolvida; leitura integral, extração e avaliação de 2006 continuam pendentes. Trinta tarefas de revisão cadastradas, sem duplicação. Data editorial exata e autenticidade do registro eleitoral não presumidas.
+
+
+## Continuidade — primeiro lote de extração de 2002
+
+Leitura integral das páginas 1–5 e trecho inicial da página 6 para completar o parágrafo 13. Doze itens novos: sete verificáveis com pesquisa pendente, cinco orientações não mensuráveis. Páginas 1–2 com extração inicial revisada por Codex; páginas 3–5 continuam pendentes de conciliação. Nenhuma conclusão de execução nova e nenhuma revisão humana. Banco: 35 itens, 15 relativos a 2002. As quatro avaliações substantivas iniciais continuam preliminares. Checkpoint local data/research-batches/2002-introducao-01.json; próximo ponto: conciliar páginas 3–5 e prosseguir a partir de 6.
+
+Requisito aceito: registrar data, governo e mandato de entregas posteriores, mantendo-as fora do percentual do mandato original. Data desconhecida não deve ser inventada; registrar intervalo comprovado.

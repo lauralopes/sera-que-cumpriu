@@ -14,3 +14,6 @@ Abra o projeto e leia docs/progress.md e o banco `data/audit.sqlite`. Não subst
 10. Salve cada item, atualize docs/progress.md e exporte XLSX para conferência. Prioridade: 2002, 2006, 2010, 2014, 2018; 2022 provisório; 2026 backlog.
 
 Cabeçalho para POST local: `X-Audit-Client: local-browser`. API ligada a localhost. Não publicar o banco ou dados de terceiros sem verificar direitos. O usuário já autorizou publicação do código no GitHub; hospedagem pública é decisão separada.
+
+
+Atualização: o PDF de 2006 já está importado com 30 páginas; a etapa de obtenção acima está resolvida. Na pesquisa de entregas, registrar também governo e mandato responsável pela entrega, inclusive posterior; jamais creditar cumprimento tardio ao período original.
