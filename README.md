@@ -25,7 +25,7 @@ A ingestão e o bootstrap são idempotentes: não duplicam arquivos, compromisso
 .venv/bin/python -m backend.ingest documentos
 ```
 
-O download direto do plano de 2006 recebeu HTML. A Wayback Availability API localizou captura de 04/12/2008, porém o download recebeu HTTP 429 na sessão inicial. A cópia binária continua pendente; não há promessas inventadas para esse plano. URLs de origem e a recuperação por fila permanecem disponíveis.
+O PDF de 2006 foi fornecido pelo usuário e importado com 30 páginas. Os seis planos agora têm cópias locais preservadas. A captura Wayback e as falhas anteriores de download permanecem registradas como histórico; leitura integral e extração de 2006 continuam pendentes.
 
 ## Pesquisa em processo separado
 

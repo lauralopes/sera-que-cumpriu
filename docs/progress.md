@@ -24,3 +24,8 @@ Validação: 15 testes de backend passaram, TypeScript e Vite compilaram. Navega
 Revisão independente apontou e foi corrigido: vínculo da citação com eleição, período coberto sem data de evento, Host externo, e reativação de avaliação por retorno ao critério anterior. Todos com regressões. CodeRabbit não foi executado porque a CLI não está autenticada; não enviamos código ao serviço.
 
 Retomada: docs/RETOMAR.md. Prioridade dos mandatos encerrados preservada. 2022 provisório; 2026 backlog.
+
+
+## Atualização — PDF de 2006 recebido
+
+O usuário forneceu documentos/plano2006-lula.pdf. Importado com 30 páginas, capa e créditos conferidos. SHA-256: 1f839142988074554b0330e14e30f26d503dbcfe30f27b4c06d5b7746bd97137. Seis PDFs e 258 páginas no acervo local. A pendência de obtenção do PDF está resolvida; leitura integral, extração e avaliação de 2006 continuam pendentes. Trinta tarefas de revisão cadastradas, sem duplicação. Data editorial exata e autenticidade do registro eleitoral não presumidas.
