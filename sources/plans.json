@@ -1,0 +1,78 @@
+[
+  {
+    "id": "2002",
+    "president": "Lula",
+    "election": 2002,
+    "start": "2003-01-01",
+    "end": "2006-12-31",
+    "provisional": 0,
+    "period_sources": [
+      "https://www2.camara.leg.br/a-camara/conheca/historia/a6republica.html",
+      "https://www.camara.leg.br/internet/agencia/infograficos-html5/presidentes2023/index.html"
+    ],
+    "url": "https://www1.uol.com.br/fernandorodrigues/arquivos/eleicoes02/plano2002-lula.pdf"
+  },
+  {
+    "id": "2006",
+    "president": "Lula",
+    "election": 2006,
+    "start": "2007-01-01",
+    "end": "2010-12-31",
+    "provisional": 0,
+    "period_sources": [
+      "https://www2.camara.leg.br/a-camara/conheca/historia/a6republica.html",
+      "https://www.camara.leg.br/internet/agencia/infograficos-html5/presidentes2023/index.html"
+    ],
+    "url": "https://bvsms.saude.gov.br/bvs/publicacoes/plano_governo.pdf"
+  },
+  {
+    "id": "2010",
+    "president": "Dilma Rousseff",
+    "election": 2010,
+    "start": "2011-01-01",
+    "end": "2014-12-31",
+    "provisional": 0,
+    "period_sources": [
+      "https://www2.camara.leg.br/a-camara/conheca/historia/a6republica.html",
+      "https://www.camara.leg.br/internet/agencia/infograficos-html5/presidentes2023/index.html"
+    ],
+    "url": "https://siac.fpabramo.org.br/uploads/acervo/Programa-de-governo-presidencia_2010.pdf"
+  },
+  {
+    "id": "2014",
+    "president": "Dilma Rousseff",
+    "election": 2014,
+    "start": "2015-01-01",
+    "end": "2016-05-11",
+    "provisional": 0,
+    "period_sources": [
+      "https://www12.senado.leg.br/noticias/materias/2016/08/31/dilma-rousseff-perde-o-mandato-e-temer-e-confirmado-presidente"
+    ],
+    "url": "https://siac.fpabramo.org.br/uploads/acervo/Programa-de-governo-presidencia_2014.pdf"
+  },
+  {
+    "id": "2018",
+    "president": "Jair Bolsonaro",
+    "election": 2018,
+    "start": "2019-01-01",
+    "end": "2022-12-31",
+    "provisional": 0,
+    "period_sources": [
+      "https://www12.senado.leg.br/noticias/materias/2019/01/01/jair-bolsonaro-toma-posse-no-congresso-e-se-torna-38o-presidente-do-brasil",
+      "https://www.camara.leg.br/internet/agencia/infograficos-html5/presidentes2023/index.html"
+    ],
+    "url": "https://uploads.diariodopoder.com.br/2018/08/Plano-Bolsonaro.pdf"
+  },
+  {
+    "id": "2022",
+    "president": "Lula",
+    "election": 2022,
+    "start": "2023-01-01",
+    "end": "2026-10-13",
+    "provisional": 1,
+    "period_sources": [
+      "https://www.camara.leg.br/internet/agencia/infograficos-html5/presidentes2023/index.html"
+    ],
+    "url": "https://www.cartacapital.com.br/wp-content/uploads/2022/09/pje-3b1196fd-Proposta-de-governo.pdf"
+  }
+]
