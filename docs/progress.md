@@ -59,3 +59,10 @@ Contagens verificadas: banco 71 itens; plano 2002 51 itens, 41 mensuráveis prov
 Dezesseis itens verificáveis novos, com critérios definidos antes da pesquisa de cumprimento. Propostas tributárias, implementação e negociação foram distinguidas; a transição de longo prazo do sistema previdenciário universal não recebeu prazo fictício em 2006. Referências adicionais da proposta tributária geral, ICMS/IVA e diálogo sobre reformas foram incorporadas aos registros anteriores. Diagnósticos e números de déficit não viraram metas prometidas. Sem nova conclusão de execução ou revisão humana.
 
 Contagens verificadas: banco 87 itens; plano 2002 67 itens, 57 mensuráveis provisórios, 10 não mensuráveis, 1 avaliação substantiva inicial e 56 verificáveis pendentes. Extração inicial por Codex 20/73 páginas. Próximo ponto: página 21. Reconciliação global de duplicações e ambiguidades permanece pendente antes de fechar o universo.
+
+
+## 14/10/2026 — lote 05, páginas 21–24
+
+Dezenove compromissos verificáveis novos: previdência complementar, reforma agrária, pesquisa e extensão agrícola, reforma sindical, Fórum Nacional do Trabalho, contratação de jovens e reforma política. Critérios prévios distinguem proposta, criação, funcionamento e implementação. Reconhecimento das centrais como interlocutoras não foi restringido a uma lei posterior. A taxa de desemprego juvenil é diagnóstico, não meta prometida. Referências de parágrafos que atravessam páginas foram preservadas. Sem nova conclusão de execução ou revisão humana.
+
+Contagens verificadas: banco 106 itens; plano 2002 86 itens, 76 mensuráveis provisórios, 10 não mensuráveis, 1 avaliação substantiva inicial e 75 verificáveis pendentes. Extração inicial por Codex 24/73 páginas. Próximo ponto: página 25, nova seção com numeração reiniciada. Reconciliar apoio agrícola e ampliação da produção de alimentos com os itens anteriores; reconciliação global de duplicações e ambiguidades pendente antes de fechar o universo.
