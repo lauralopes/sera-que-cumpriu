@@ -45,3 +45,10 @@ Lote 02 salvo: 18 itens novos, sendo 14 verificáveis com pesquisa pendente e qu
 Banco atual: 53 itens; plano 2002: 33 itens, 24 mensuráveis provisórios, nove orientações não mensuráveis, uma avaliação substantiva inicial e 23 verificáveis pendentes. Extração inicial revisada por Codex: 10/73 páginas; universo completo ainda não fechado. Próximo checkpoint: parágrafo 28 na página 11. Reconciliação global de duplicações/ambiguidades permanece obrigatória. As quatro avaliações substantivas do banco continuam preliminares.
 
 A expressão crescimento em torno de 7% na página 11 não foi antecipadamente convertida em meta entregue; natureza e redação deverão ser examinadas na próxima etapa. Entregas em outros mandatos continuarão separadas do indicador do período original.
+
+
+## 14/10/2026 — lote 03, páginas 11–15 de 2002
+
+Dezoito itens novos no lote e na conciliação: 17 verificáveis com critérios prévios e pesquisa pendente, uma orientação de crescimento em torno de 7% classificada como não mensurável, por ambiguidade de meta/prazo. Referências repetidas do modelo social e democratização cultural incorporadas aos itens anteriores, sem criar novos pesos. Contratos e compromissos internacionais, continuados do parágrafo 27, extraídos separadamente da política fiscal. Página 16 lida para encerrar o parágrafo 42; sua extração integral continua pendente.
+
+Contagens verificadas: banco 71 itens; plano 2002 51 itens, 41 mensuráveis provisórios, 10 não mensuráveis, 1 avaliação substantiva inicial, 40 verificáveis pendentes. Extração inicial por Codex: 15/73 páginas. Sem revisão humana e sem nova conclusão de execução. Próximo ponto: parágrafo 43, página 16, conciliando reforma tributária com página 14. Universo parcial; deduplicação global ainda necessária.
