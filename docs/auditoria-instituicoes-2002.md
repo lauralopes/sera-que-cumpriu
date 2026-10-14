@@ -1,0 +1,30 @@
+# Pesquisa institucional — plano de 2002
+
+Avaliações iniciais, sem revisão humana ou percentual final de governo.
+
+## 2002-104 — Não concluída
+
+Reconstituição jurídica de Sudam e Sudene não concluída até 31/12/2006; leis de instituição publicadas em 04/01/2007, no segundo mandato de Lula.
+
+O critério fixado exige reconstituição jurídica e operação em 2003–2006, não apenas proposta ou aprovação do projeto. A reportagem legislativa do fim de 2006 distingue aprovação e envio à sanção; as fichas das leis situam a instituição em janeiro de 2007. Por esse requisito necessário, não há entrega integral no mandato original. O avanço parlamentar fica registrado, sem equipará-lo à reconstituição. Funcionamento posterior e demais agências ainda exigem pesquisa própria.
+
+Confiança: Média. Cronologia corroborada por registro legislativo contemporâneo e fichas das leis, com crítica parlamentar separada. Textos legais integrais indisponíveis por 429; operação posterior ainda não auditada. Sem revisão humana.
+
+- [Câmara aprova recriação da Sudene, Sudam e Sudeco](https://www.camara.leg.br/noticias/93711-camara-aprova-recriacao-da-sudene-da-sudam-e-da-sudeco/): O balanço de 29/12/2006 informa projetos de Sudene e Sudam aprovados e enviados à sanção; o projeto da Sudeco ainda precisava de votação no Senado. Marco de tramitação no primeiro mandato de Lula, não funcionamento. Data da reportagem não deve ser usada como data exata de votação. Agência Câmara; contribuição parlamentar preservada.
+- [LC 124/2007 — dados da norma de instituição da Sudam](https://www2.camara.leg.br/legin/fed/leicom/2007/leicomplementar-124-3-janeiro-2007-548988-norma-pl.html): Ficha legislativa registra LC 124 de 03/01/2007 instituindo Sudam, com publicação no DOU em 04/01/2007, página 1. Governo Lula, segundo mandato 2007–2010. Ficha lida; abertura do texto original recebeu HTTP 429 e não foi contornada. Prova de etapa jurídica posterior, não de operação integral da instituição.
+- [LC 125/2007 — dados da norma de instituição da Sudene](https://www2.camara.leg.br/legin/fed/leicom/2007/leicomplementar-125-3-janeiro-2007-548989-norma-pl.html): Ficha legislativa indexada registra LC 125 de 03/01/2007 instituindo Sudene, com publicação no DOU em 04/01/2007, página 3. Governo Lula, segundo mandato 2007–2010. Metadados lidos no resultado indexado; abertura direta recebeu HTTP 429. Não afirmar leitura do texto integral nem funcionamento imediato.
+- [Pronunciamento de Alvaro Dias com aparte de Luiz Pontes em 23/05/2006](https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/362568): No aparte ao discurso, Luiz Pontes (PSDB-CE) critica a distância entre cerimônias anunciadas e efetiva recriação de Sudene e Sudam. Crítica contemporânea de oposição identificada pelo autor do aparte, não afirmação neutra do Senado. Usada como contraponto, não como prova exclusiva de ausência institucional. Não importar seus números orçamentários sem conciliação independente.
+
+## 2002-1021 — Evidência insuficiente
+
+Reinstalação em 2003 e produção de protocolos em 2003–2006 documentadas; comprovação integral do funcionamento e da política de pessoal permanece pendente.
+
+Há evidência positiva de reinstalação e produtos de negociação, incluindo carreiras. O critério anterior exige também mesa operacional com representação das três esferas e trabalhadores e política em articulação com Conselhos. Nesta pesquisa ainda faltam atas, composição aplicada e vínculo entre protocolos e a política produzida. Não tratar lacunas de prova como ausência de entrega, nem atribuir criação original da Mesa ao governo de 2003.
+
+Confiança: Média. Convergência entre resolução e referências de gestores e trabalhadores para marcos e protocolos; comprovação operacional integral ainda incompleta. Não foi atribuído percentual de avanço nem revisão humana.
+
+- [Resolução CNS 331/2003 — reinstalação da Mesa de Negociação](https://www.gov.br/conselho-nacional-de-saude/pt-br/acesso-a-informacao/atos-normativos/resolucoes/2003/resolucao-no-331.pdf/view): A resolução de 04/11/2003 ratifica reinstalação ocorrida em 04 e 05/06/2003 e remete aos temas de gestão do trabalho definidos pela NOB/RH. Fonte oficial usada junto a reproduções e fontes de gestores e trabalhadores fora de gov.br. Marco de reinstalação, não criação original: a Mesa já tinha antecedentes em 1993 e 1997. Data exata de publicação no DOU não confirmada.
+- [Resolução CNS 708/2023 reproduzida pelo Conass — antecedentes e protocolos](https://www.conass.org.br/conass-informa-n-51-2023-publicada-a-resolucao-cns-n-708-que-dispoe-sobre-a-reinstalacao-da-mesa-nacional-de-negociacao-permanente-do-sistema-unico-de-saude/): A reprodução menciona a ratificação de 2003, protocolos de 2003, 2005 e 2006, inclusive diretrizes de carreiras, e deliberações da conferência de gestão do trabalho de 2006. Fonte retrospectiva externa ao domínio gov.br, ligada aos gestores estaduais e participante da negociação. Período refere-se somente aos antecedentes usados, não à reinstalação de 2023, que não é entrega de 2002. Enumeração de protocolos não comprova frequência das reuniões ou aplicação nacional integral.
+- [Farmacêutico, você tem direitos — protocolos da Mesa do SUS](https://fenafar.org.br/wp-content/uploads/2022/05/4.pdf): Cartilha sindical enumera protocolos de 2003, 2005 e 2006, incluindo diretrizes para planos de carreira e cessão de pessoal no SUS. Perspectiva de organização dos trabalhadores, não fonte sem interesse. Material retrospectivo; data editorial exata não confirmada, não inferir data do caminho de upload. Enumeração corrobora produção normativa, não substitui atas e acompanhamento operacional.
+
+Retomada: operação das agências após 2007; atas, composição e política da Mesa; mídias independentes e capturas históricas. Portal do IFRN apresenta spam alheio ao tema e não foi usado como prova. A pesquisa da Secretaria Extraordinária de Comércio Exterior iniciou-se, mas não sustenta classificação e o compromisso permanece pendente.
