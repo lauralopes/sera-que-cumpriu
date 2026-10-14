@@ -66,3 +66,10 @@ Contagens verificadas: banco 87 itens; plano 2002 67 itens, 57 mensuráveis prov
 Dezenove compromissos verificáveis novos: previdência complementar, reforma agrária, pesquisa e extensão agrícola, reforma sindical, Fórum Nacional do Trabalho, contratação de jovens e reforma política. Critérios prévios distinguem proposta, criação, funcionamento e implementação. Reconhecimento das centrais como interlocutoras não foi restringido a uma lei posterior. A taxa de desemprego juvenil é diagnóstico, não meta prometida. Referências de parágrafos que atravessam páginas foram preservadas. Sem nova conclusão de execução ou revisão humana.
 
 Contagens verificadas: banco 106 itens; plano 2002 86 itens, 76 mensuráveis provisórios, 10 não mensuráveis, 1 avaliação substantiva inicial e 75 verificáveis pendentes. Extração inicial por Codex 24/73 páginas. Próximo ponto: página 25, nova seção com numeração reiniciada. Reconciliar apoio agrícola e ampliação da produção de alimentos com os itens anteriores; reconciliação global de duplicações e ambiguidades pendente antes de fechar o universo.
+
+
+## 14/10/2026 — lote 06, páginas 25–26
+
+Nove compromissos verificáveis novos: emprego e precariedade, moradia própria, saneamento, transporte coletivo, fome e pobreza, reforma urbana, saúde, proteção do emprego e financiamento interno. Referências repetidas de salário mínimo, educação, previdência, pequenos empreendimentos, tecnologia e orientação social incorporadas aos registros existentes. Universalização crescente não recebeu prazo ou percentual fictício. Metas gerais e seus instrumentos permanecem sujeitos à reconciliação global para evitar pesos duplicados. Diagnósticos econômicos dos parágrafos 6–9 não viraram promessas. Sem nova conclusão de cumprimento ou revisão humana.
+
+Contagens verificadas: banco 115 itens; plano 2002 95 itens, 85 mensuráveis provisórios, 10 não mensuráveis, 1 avaliação substantiva inicial e 84 verificáveis pendentes. Extração inicial por Codex 26/73 páginas. Próximo ponto: página 27, incluindo conciliação do objetivo comercial no parágrafo 10. Página 27 foi lida, mas sua extração permanece pendente.
