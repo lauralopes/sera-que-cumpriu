@@ -36,3 +36,12 @@ O usuário forneceu documentos/plano2006-lula.pdf. Importado com 30 páginas, ca
 Leitura integral das páginas 1–5 e trecho inicial da página 6 para completar o parágrafo 13. Doze itens novos: sete verificáveis com pesquisa pendente, cinco orientações não mensuráveis. Páginas 1–2 com extração inicial revisada por Codex; páginas 3–5 continuam pendentes de conciliação. Nenhuma conclusão de execução nova e nenhuma revisão humana. Banco: 35 itens, 15 relativos a 2002. As quatro avaliações substantivas iniciais continuam preliminares. Checkpoint local data/research-batches/2002-introducao-01.json; próximo ponto: conciliar páginas 3–5 e prosseguir a partir de 6.
 
 Requisito aceito: registrar data, governo e mandato de entregas posteriores, mantendo-as fora do percentual do mandato original. Data desconhecida não deve ser inventada; registrar intervalo comprovado.
+
+
+## 14/10/2026 — continuidade da extração de 2002
+
+Lote 02 salvo: 18 itens novos, sendo 14 verificáveis com pesquisa pendente e quatro orientações não mensuráveis. Páginas 3–5 conciliadas e leitura/extração inicial avançou até a página 10; página 11 lida como continuidade, com extração restante ainda pendente. Referências de parágrafos entre páginas preservadas. Diagnósticos não foram convertidos em promessas. Nenhuma nova conclusão de cumprimento e nenhuma revisão humana.
+
+Banco atual: 53 itens; plano 2002: 33 itens, 25 mensuráveis provisórios, oito orientações não mensuráveis, uma avaliação substantiva inicial e 24 verificáveis pendentes. Extração inicial revisada por Codex: 10/73 páginas; universo completo ainda não fechado. Próximo checkpoint: parágrafo 28 na página 11. Reconciliação global de duplicações/ambiguidades permanece obrigatória. As quatro avaliações substantivas do banco continuam preliminares.
+
+A expressão crescimento em torno de 7% na página 11 não foi antecipadamente convertida em meta entregue; natureza e redação deverão ser examinadas na próxima etapa. Entregas em outros mandatos continuarão separadas do indicador do período original.
